@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vinayakmk17/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Vinayakmk17/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Vinayakmk17/Leetcode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vinayakmk17/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vinayakmk17/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vinayakmk17/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vinayakmk17/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Vinayakmk17/Leetcode/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vinayakmk17/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vinayakmk17/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Vinayakmk17/Leetcode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Vinayakmk17/Leetcode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vinayakmk17/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
